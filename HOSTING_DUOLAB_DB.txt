@@ -1,0 +1,3 @@
+bd:		u726886248_duolab
+user: 	u726886248_admin_duolab
+pass: 	8RJh]H/=e
